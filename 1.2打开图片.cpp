@@ -4,8 +4,8 @@ using namespace cv;
 
 void main()
 {
-	Mat srcImage = imread("D:\\2.png"，0);
+	Mat srcImage = imread("D:\\2.png",0);
 
-	imshow("这是一个标题", srcImage);
+	imshow("脮芒脢脟脪禄赂枚卤锚脤芒", srcImage);
 	waitKey(0);
 }
